@@ -14,10 +14,7 @@ export default class App extends Component {
       
 		<View style={{backgroundColor: 'white', height: 640, width:400,flex:1}}>
 		<ScrollView>
-			 <Image
-          style={{width: 66, height: 58, marginTop:5}}
-          source={{uri: 'https://www.google.com.pk/search?q=cichub+logo+image+in+png+format&tbm=isch&source=iu&ictx=1&fir=A7cngZlhJtWagM%253A%252Cp_lBjqxUMLZ7lM%252C_&usg=__OAKEaMrAZOJlnby3tb1AzzwCs6o%3D&sa=X&ved=0ahUKEwjZ-eWI2LHbAhVEU30KHUvQCBQQ9QEIMjAF#imgrc=A7cngZlhJtWagM:'}}
-        />
+			 
 	
        <Text style = {{color :'white', backgroundColor: 'blue', textAlign: 'center', marginTop: 40, width:200}}>Admission Form CIC Hub</Text>
    
