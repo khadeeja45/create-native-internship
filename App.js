@@ -36,7 +36,7 @@ export default class App extends Component {
       style={{width:200,height:70,bordercolor:'blue',textweight:'bold',paddingleft:100}}
       />
         <TextInput
-      placeholder='Internship'
+      placeholder='In  '
       style={{width:200,height:70,bordercolor:'blue',textweight:'bold'}}
       />
       <TouchableOpacity
