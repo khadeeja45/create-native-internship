@@ -39,6 +39,10 @@ export default class App extends Component {
       placeholder='In  '
       style={{width:200,height:70,bordercolor:'blue',textweight:'bold'}}
       />
+       <TextInput
+      placeholder=' merging '
+      style={{width:200,height:70,bordercolor:'blue',textweight:'bold'}}
+      />
       <TouchableOpacity
       style={{backgroundColor:'green',height:50,width:200, marginTop:200,}}
       ><Text style = {{color :'white', textAlign:'center',  marginTop:10}}>Submit</Text></TouchableOpacity>	
