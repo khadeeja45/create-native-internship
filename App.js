@@ -14,7 +14,7 @@ export default class App extends Component {
       
 		<View style={{backgroundColor: 'white', height: 640, width:400,flex:1}}>
 		<ScrollView>
-			 
+
 	
        <Text style = {{color :'white', backgroundColor: 'blue', textAlign: 'center', marginTop: 40, width:200}}>Admission Form CIC Hub</Text>
    
@@ -36,7 +36,7 @@ export default class App extends Component {
       style={{width:200,height:70,bordercolor:'blue',textweight:'bold',paddingleft:100}}
       />
         <TextInput
-      placeholder='Course name'
+      placeholder='Internship'
       style={{width:200,height:70,bordercolor:'blue',textweight:'bold'}}
       />
       <TouchableOpacity
